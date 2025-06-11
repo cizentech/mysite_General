@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
+
+
 ![CIZENTECH](cizentech-logo-195x88-trans.png)
 ## 시젠테크에 오신 것을 환영 합니다. (Welcome to CIZENTECH.)
 
