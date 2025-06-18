@@ -10,7 +10,7 @@
 
 
 ## 목록
-- [CameraMaster 매뉴얼 (Manual)](https://cizentech-my.sharepoint.com/:b:/p/mason/EfM19NAEZfBErx9Hn6HAmlIBz0QWYlmb6RUYdYPSfmPW7Q?e=aM2rOS)
+- [CameraMaster 매뉴얼 (Manual)]([https://cizentech-my.sharepoint.com/:b:/p/mason/EfM19NAEZfBErx9Hn6HAmlIBz0QWYlmb6RUYdYPSfmPW7Q?e=aM2rOS](https://cizentech-my.sharepoint.com/:b:/p/mason/EQ6RgJkfTXhEpNHG10tD9GgBhVhv6eQ7EAzHwUpG1YfPag?e=rxlrdz))
 
 - [S2 보드 드라이버 다운로드 (Download S2 Windows Driver)](https://cizentech-my.sharepoint.com/:u:/p/mason/EU_WCVVFRWhGhWI-9ZD_LWEBJRJXGeuRA8X2JhiG62jPGQ?e=TiekG6)
 
