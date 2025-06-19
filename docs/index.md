@@ -16,3 +16,4 @@
 
 - [CameraMaster 프로그램 다운로드 (Download Program)](https://cizentech-my.sharepoint.com/:u:/p/mason/EbmtupzwHYNHgGcBosZcDpMBkU7HMEE5iCY4Dt6dt-E_-Q?e=kLTglA)
 
+- [Microsoft Visual C++ 2015-2022 Redistributable (x64)](https://cizentech-my.sharepoint.com/:u:/p/mason/EVMhVvG3-CtCtEEtHW4ev9wBrbRK59dHw0NMc0ar65z6jg?e=l5isqq)
