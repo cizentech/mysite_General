@@ -17,3 +17,5 @@
 - [CameraMaster 프로그램 다운로드 (Download Program)](https://cizentech-my.sharepoint.com/:u:/p/mason/EWxZHDWJu5VLi2EyF0tbC6cB4nZx4semrR5g8XUxWkdsUQ?e=B2wHqT)
 
 - [Microsoft Visual C++ 2015-2022 Redistributable (x64)](https://cizentech-my.sharepoint.com/:u:/p/mason/EVMhVvG3-CtCtEEtHW4ev9wBrbRK59dHw0NMc0ar65z6jg?e=l5isqq)
+
+- [S2 board control library(SDK)](https://cizentech.github.io/mysite_sdk/md_pages_2_example__cpp.html)
